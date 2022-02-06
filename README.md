@@ -4,7 +4,7 @@ A variety of different socio-economic factors are examined, including measures o
 
 The country is classified into more than 300 distinct districts based on the 2011 census.
 
-Different quantative data analysis processes are carried out including: Spearman correlation tests, factor analyses, multiple linear regressions, principal components analyses, relative importance matrices, Kolmogorov-Smirnov tests, Shapiro-Wilk tests and Kaiser-Meyer-Olkin tests.
+Different quantative data analysis processes carried out include: Spearman correlation tests, factor analyses, multiple linear regressions, principal components analyses, relative importance matrices, Kolmogorov-Smirnov tests, Shapiro-Wilk tests and Kaiser-Meyer-Olkin tests.
 
 CONCLUSION
 
