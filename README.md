@@ -1,4 +1,4 @@
-This study uses RStudio to examine the link between living conditions and deaths by Covid-19 in England. 
+This study uses RStudio and SQL to examine the link between living conditions and deaths by Covid-19 in England. 
 
 A variety of different socio-economic factors are examined, including measures of neighbourhood health, deprivation, social grade, GDHI and hourly pay.
 
